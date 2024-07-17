@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.box{
+    height: 100%;
+    width: 200%;
+    background-image: url(https://i.pinimg.com/564x/c8/a0/1a/c8a01a5c5dffe2ae8dffb6ca9c02ddb7.jpg);
+    object-fit: cover;
+    background-position: center;
+    overlay: 0%;
+}
+.box1{
+    height: 88%;
+    width: 55%;
+    background-color: rgba(255, 255, 255, 0.652);
+    position: absolute;
+    left: 23%;
+    margin-top: 2%;
+}
+.one{
+    position: absolute;
+    left: 2%;
+    margin-top: 1%;
+}
+.two{
+    position: absolute;
+    left: 24%;
+    font-size: 14px;
+    margin-top: 1%;
+}
+.three{
+    position: absolute;
+    left: 40%;
+    font-size: 14px;
+    margin-top: 1%;
+}
+.four{
+    position: absolute;
+    left: 56%;
+    font-size: 14px;
+    margin-top: 1%;
+}
+.five{
+    position: absolute;
+    left: 76%;
+    font-size: 14px;
+    margin-top: 1%;
+}
+.button1{
+    position: absolute;
+    right: 2%;
+    margin-top: 1%;
+    padding: 3px 10px;
+    background-color: rgba(0, 128, 0, 0.715);
+    border: none;
+}
+.box2{
+    height: 48%;
+    width: 94%;
+    background-image: url(https://cdn.dribbble.com/userupload/13619612/file/original-7620d87b98b5abe6c4939637dfc841e8.jpg?resize=1160x772);
+    object-fit: cover;
+    position: absolute;
+    margin-top: 9%;
+    left: 3%;
+}
+.box3{
+    height: 30%;
+    width: 20%;
+    background-image: url(https://cdn.dribbble.com/users/406256/screenshots/16883177/media/e0a98067a33dd0bb7d61915fb5ca88e4.jpg?resize=400x300&vertical=center);
+    object-fit: cover;
+    background-position: center;
+    position: absolute;
+    margin-top: 49%;
+    left: 2%;
+
+}
+.box4{
+    height: 30%;
+    width: 20%;
+    background-image: url(https://cdn.dribbble.com/users/11950944/screenshots/18861030/media/b2797549801cc338224a8d4825312b8b.jpg?resize=400x300&vertical=center);
+    object-fit: cover;
+    background-position: center;
+    position: absolute;
+    margin-top: 49%;
+    left: 25%;
+}
+.box5{
+    height: 30%;
+    width: 20%;
+    background-image: url(https://cdn.dribbble.com/userupload/10715132/file/original-5f88722390abdee84cb72cb4bdc581ae.jpg?resize=1200x721);
+    object-fit: cover;
+    background-position: center;
+    position: absolute;
+    margin-top: 49%;
+    left: 48%;
+}
+.box6{
+    height: 30%;
+    width: 20%;
+    background-image: url(https://cdn.dribbble.com/userupload/9861563/file/original-7bbc85b473e0b4360ee4d81c3ba7ee75.png?resize=1200x900);
+    object-fit: cover;
+    background-position: center;
+    position: absolute;
+    margin-top: 49%;
+    left: 73%;
+}
+.box7{
+    height: 62%;
+    width: 75%;
+    background-color: rgba(255, 255, 255, 0.888);
+    position: absolute;
+    margin-top: 19%;
+    left: 11%;
+}
+.six{
+    position: absolute;
+    left: 45%;
+    margin-top: 3%;
+    font-size: 55px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    position: absolute;
+    left: 46%;
+    margin-top: 20%;
+    font-size: 25px;
+}
+.button2{
+    position: absolute;
+    margin-top: 22%;
+    left: 72%;
+    border: none;
+    padding: 4px 16px;
+    background-color: rgba(255, 166, 0, 0.826);
+}
+.button3{
+    position: absolute;
+    margin-top: 44%;
+    padding: 5px 45px;
+    left: 55%;
+    background-color: rgba(128, 128, 128, 0.848);
+    border: none;
+}
+.box8{
+    height: 58%;
+    width: 30%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjO2vGIjPGYvw29cXCxSebH0hIByF7tiRzvQ&s);
+    object-fit: cover;
+    background-position: center;
+    position: absolute;
+    margin-top: 2%;
+    left: 3%;
+}
+.box9{
+    height: 50%;
+    width: 30%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvozsDJdeBtXFimAoJyQSd2V3kQGm7q7OKSg&s);
+    object-fit: cover;
+    background-position: center;
+    position: absolute;
+    margin-top: 9%;
+    left: 12%;
+}
+.box10{
+    height: 30%;
+    width: 40%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqm3fxhOfpID_h1eZ-mMk-fOj0My0wBp2AFg&s);
+    object-fit: cover;
+    background-position: center;
+    position: absolute;
+    margin-top: 39%;
+    left: 3%;
+}
